@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "End to End testing",
+    "packageVersion": "1.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mitchellparsons",
+    "githubRepository": "e2etesting"
+  }
+}
